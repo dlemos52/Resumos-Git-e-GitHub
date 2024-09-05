@@ -17,6 +17,18 @@ Repositório para armezenar resumos sobre Git e Github do curso Versionamento de
 ````
 git init
 ````
+````
+git add .
+`````
+````
+git commit -m "First Commit"
+`````
+````
+git remote add origin https://...
+`````
+````
+git push -u origin main
+`````
 
 ## 🔎 Referências
 - [Digital Innovation One]().
