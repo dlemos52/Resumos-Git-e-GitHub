@@ -29,6 +29,9 @@ git remote add origin https://...
 ````
 git push -u origin main
 `````
+````
+git pull
+`````
 
 ## 🔎 Referências
 - [Digital Innovation One]().
